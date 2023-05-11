@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="150"
+   height="250"
+   viewBox="0 0 39.6875 66.145833"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="step2.svg"
+   inkscape:export-filename="step2.jpg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.628"
+     inkscape:cx="-19.041769"
+     inkscape:cy="34.398034"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g4120">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1347" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <rect
+       x="1064.0116"
+       y="121.38457"
+       width="66.382187"
+       height="45.519215"
+       id="rect631" />
+  </defs>
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text629"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Bold';white-space:pre;shape-inside:url(#rect631);display:inline;fill:#141443;stroke-width:2.26772;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers" />
+    <g
+       id="g4120">
+      <rect
+         style="fill:#141443;stroke-width:0.156662;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="rect571"
+         width="39.6875"
+         height="66.145836"
+         x="0"
+         y="0" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.29167px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.600001;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         x="10.777791"
+         y="5.5760112"
+         id="text637"><tspan
+           sodipodi:role="line"
+           id="tspan635"
+           style="font-size:5.29167px;fill:#ffffff;fill-opacity:1;stroke-width:0.6"
+           x="10.777791"
+           y="5.5760112"><tspan
+   style="fill:#00ff00"
+   id="tspan2973">ШАГ 2:</tspan> </tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.600001;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         x="1.6536459"
+         y="12.170834"
+         id="text1401"><tspan
+           sodipodi:role="line"
+           id="tspan1399"
+           style="font-size:4.23333px;fill:#808080;fill-opacity:1;stroke-width:0.6"
+           x="1.6536459"
+           y="12.170834">Действие: </tspan><tspan
+           sodipodi:role="line"
+           style="font-size:4.23333px;stroke-width:0.6"
+           x="1.6536459"
+           y="17.462496"
+           id="tspan1405">-Слайд втянуть</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:4.23333px;stroke-width:0.6"
+           x="1.6536459"
+           y="22.754158"
+           id="tspan4634">(Y4)</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:4.23333px;fill:#808080;stroke-width:0.6"
+           x="1.6536459"
+           y="28.04582"
+           id="tspan2241">Окончание (2-3):</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:4.23333px;stroke-width:0.6"
+           x="1.6536459"
+           y="33.337482"
+           id="tspan2245">-Слайд втянут </tspan><tspan
+           sodipodi:role="line"
+           style="font-size:4.23333px;stroke-width:0.6"
+           x="1.6536459"
+           y="38.629143"
+           id="tspan4632">(SFC6)</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Bold';fill:#808080;fill-opacity:1;stroke-width:0.600001;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       x="25.664583"
+       y="22.357292"
+       id="text2237"><tspan
+         sodipodi:role="line"
+         id="tspan2235"
+         style="stroke-width:0.6" /></text>
+  </g>
+</svg>
